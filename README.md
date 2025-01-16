@@ -1,7 +1,3 @@
-# Price Dekho
-
-A price comparison application with Django REST Framework backend and frontend (to be added).
-
 ## Project Structure
 
 ```
