@@ -59,7 +59,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'price_dekho.urls'
+ROOT_URLCONF = 'review_master.urls'
 
 TEMPLATES = [
     {
@@ -77,7 +77,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'price_dekho.wsgi.application'
+WSGI_APPLICATION = 'review_master.wsgi.application'
 
 
 # Database
