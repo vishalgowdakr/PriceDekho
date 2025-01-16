@@ -5,7 +5,7 @@ A price comparison application with Django REST Framework backend and frontend (
 ## Project Structure
 
 ```
-price_dekho/
+review_master/
 ├── backend/           # Django REST Framework backend
 │   ├── api/          # Django app for REST API
 │   ├── price_dekho/  # Django project settings
